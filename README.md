@@ -37,3 +37,12 @@ The main goal of this project is to understand how **React Hook Form** simplifie
    ```bash
    git clone https://github.com/okroshan4u/react-hook-form-practice.git
    ```
+2. Navigate into the project folder:
+```bash
+cd react-hook-form-practice
+```
+
+3.Install dependencies:
+```bash
+npm install
+```
