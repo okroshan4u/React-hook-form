@@ -1,16 +1,38 @@
-# React + Vite
+# 📘 React Hook Form Practice
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a simple implementation and learning exercise using **React Hook Form**, a powerful library for managing forms in React with minimal re-renders and cleaner validation logic.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Overview
+The main goal of this project is to understand how **React Hook Form** simplifies form handling by using React hooks for:
+- Form state management  
+- Input validation  
+- Error handling  
+- Submission control  
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🧠 What I Learned
+- How to set up and integrate **React Hook Form** in a React project.  
+- Using the `useForm()` hook to register input fields.  
+- Managing and validating form inputs with built-in and custom rules.  
+- Displaying error messages dynamically.  
+- Handling form submission efficiently with `handleSubmit`.  
+- Reducing unnecessary re-renders compared to traditional form handling methods.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Technologies Used
+- **React.js**  
+- **React Hook Form**  
+- **JavaScript (ES6)**  
+- **Vite / Create React App** (depending on your setup)  
+- **CSS / Tailwind CSS** for basic styling  
+
+---
+
+## 💻 How to Run the Project
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/<your-username>/react-hook-form-practice.git
