@@ -35,4 +35,4 @@ The main goal of this project is to understand how **React Hook Form** simplifie
 ## 💻 How to Run the Project
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/react-hook-form-practice.git
+   git clone https://github.com/okroshan4u/react-hook-form-practice.git
